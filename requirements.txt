@@ -1,0 +1,6 @@
+fastapi
+asyncpg
+pydantic
+python-dotenv
+jinja2
+python-multipart
